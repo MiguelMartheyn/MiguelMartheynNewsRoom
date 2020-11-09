@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiguelMartheynNewsRoom/static/css/main.805cd8d7.chunk.css",
+    "main.js": "/MiguelMartheynNewsRoom/static/js/main.26e314f5.chunk.js",
+    "main.js.map": "/MiguelMartheynNewsRoom/static/js/main.26e314f5.chunk.js.map",
+    "runtime-main.js": "/MiguelMartheynNewsRoom/static/js/runtime-main.206ea734.js",
+    "runtime-main.js.map": "/MiguelMartheynNewsRoom/static/js/runtime-main.206ea734.js.map",
+    "static/js/2.19eef7c0.chunk.js": "/MiguelMartheynNewsRoom/static/js/2.19eef7c0.chunk.js",
+    "static/js/2.19eef7c0.chunk.js.map": "/MiguelMartheynNewsRoom/static/js/2.19eef7c0.chunk.js.map",
+    "index.html": "/MiguelMartheynNewsRoom/index.html",
+    "precache-manifest.e46d3826671909d598c4de24a56a750a.js": "/MiguelMartheynNewsRoom/precache-manifest.e46d3826671909d598c4de24a56a750a.js",
+    "service-worker.js": "/MiguelMartheynNewsRoom/service-worker.js",
+    "static/css/main.805cd8d7.chunk.css.map": "/MiguelMartheynNewsRoom/static/css/main.805cd8d7.chunk.css.map",
+    "static/js/2.19eef7c0.chunk.js.LICENSE.txt": "/MiguelMartheynNewsRoom/static/js/2.19eef7c0.chunk.js.LICENSE.txt",
+    "static/media/cargando.gif": "/MiguelMartheynNewsRoom/static/media/cargando.77978188.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206ea734.js",
+    "static/js/2.19eef7c0.chunk.js",
+    "static/css/main.805cd8d7.chunk.css",
+    "static/js/main.26e314f5.chunk.js"
+  ]
+}
