@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MiguelMartheynNewsRoom/precache-manifest.e46d3826671909d598c4de24a56a750a.js"
+  "/MiguelMartheynNewsRoom/precache-manifest.f8969c5103a1b9d83da1fef7b78a3ea7.js"
 );
 
 self.addEventListener('message', (event) => {
